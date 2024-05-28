@@ -61,3 +61,11 @@ Wanna contribute? Great!
 
 
 6. Easily switch between production version linked to GreasyFork and your local file.
+
+## Contributing
+Contributions are welcome! Please follow these guidelines:
+
+- Fork the repository.
+- Create a new branch for your feature or bug fix.
+- Commit your changes.
+- Submit a pull request.
