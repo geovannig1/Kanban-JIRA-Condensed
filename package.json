@@ -1,0 +1,47 @@
+{
+    "name": "media-factory-jira-condensed",
+    "version": "4.2.0",
+    "description": "A tiny script to make JIRA kanban board better... like... *not* eyes bleeding.",
+    "main": "gulpfile.js",
+    "devDependencies": {
+        "@babel/core": "^7.2.2",
+        "@babel/plugin-proposal-class-properties": "^7.3.0",
+        "@babel/preset-env": "^7.3.1",
+        "acorn": "^6.0.5",
+        "babel-loader": "^8.0.5",
+        "babel-plugin-replace-imports": "^1.0.2",
+        "gulp": "^4.0.0",
+        "gulp-babel": "^8.0.0",
+        "gulp-concat": "^2.6.1",
+        "gulp-header": "^2.0.7",
+        "gulp-watch": "^5.0.1",
+        "webpack": "^4.29.0",
+        "webpack-stream": "^5.2.1"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "watch": "npx gulp watch"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/jaCUBE/media-factory-jira-condensed.git"
+    },
+    "author": {
+        "name": "Jakub Rychecký",
+        "email": "jakub@rychecky.cz",
+        "url": "http://rychecky.cz/"
+    },
+    "contributors": [
+        {
+            "name": "Michal Junek",
+            "email": "dragonczz@gmail.com",
+            "url": ""
+        }
+    ],
+    "license": "WTFPL",
+    "bugs": {
+        "url": "https://github.com/jaCUBE/media-factory-jira-condensed/issues"
+    },
+    "homepage": "https://github.com/jaCUBE/media-factory-jira-condensed#readme",
+    "dependencies": {}
+}
